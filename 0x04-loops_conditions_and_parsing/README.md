@@ -4,7 +4,7 @@
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-##General
+## General
 
 * How to create SSH keys
 * What is the advantage of using #!/usr/bin/env bash over #!/bin/bash
@@ -15,7 +15,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Requirements
 
-##General
+## General
 * Allowed editors: vi, vim, emacs
 * All your files will be interpreted on Ubuntu 20.04 LTS
 * All your files should end with a new line
