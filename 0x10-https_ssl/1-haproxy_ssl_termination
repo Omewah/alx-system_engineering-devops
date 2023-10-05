@@ -34,7 +34,7 @@ defaults
         errorfile 504 /etc/haproxy/errors/504.http
 
 frontend estebanweb
-    bind *:80
+    bind *:443
     mode http
     default_backend app
 backend app
